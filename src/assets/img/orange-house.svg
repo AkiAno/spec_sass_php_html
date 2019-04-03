@@ -1,0 +1,23 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="102" width="102" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line stroke="#ff6f00" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="33.4375" x2="82.999999" y1="33.4375" x1="16" stroke-width="1.5" fill="none"/>
+  <line stroke="#ff6f00" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="76.4375" x2="82.999999" y1="76.4375" x1="16" stroke-width="1.5" fill="none"/>
+  <line stroke="#ff6f00" transform="rotate(90 15.500000953674311,54.93750000000001) " stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_5" y2="54.9375" x2="37.499999" y1="54.9375" x1="-6.499999" stroke-width="1.5" fill="none"/>
+  <line stroke="#ff6f00" transform="rotate(90 83.50000000000001,54.93750000000001) " stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_6" y2="54.9375" x2="105.499999" y1="54.9375" x1="61.500001" stroke-width="1.5" fill="none"/>
+  <line stroke="#ff6f00" transform="rotate(45 70,19.437500000000004) " stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_7" y2="19.437499" x2="90.585787" y1="19.437499" x1="49.414215" stroke-width="1.5" fill="none"/>
+  <line stroke="#ff6f00" transform="rotate(145 35.49144744873047,19.318233489990238) " stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_8" y2="19.318234" x2="60.06762" y1="19.318234" x1="10.915273" stroke-width="1.5" fill="none"/>
+  <rect id="svg_9" height="16" width="14" y="45.4375" x="29" fill-opacity="0" stroke-width="1.5" stroke="#ff6f00" fill="#4db6ac"/>
+  <rect id="svg_10" height="1" width="0" y="93.4375" x="154" stroke-width="1.5" stroke="#ff6f00" fill="none"/>
+  <rect id="svg_11" height="37" width="30" y="73.4375" x="142" stroke-width="1.5" stroke="#ff6f00" fill="none"/>
+  <rect stroke="#ff6f00" id="svg_13" height="32" width="16" y="44.4375" x="59" stroke-width="1.5" fill="none"/>
+ </g>
+</svg>
